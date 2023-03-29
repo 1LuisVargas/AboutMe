@@ -1,0 +1,11 @@
+h1 {
+  color: blanchedalmond;
+}
+
+.navbar-collapse {
+  justify-content: center;
+}
+
+.navbar-expand-lg, .footer {
+  background-color: skyblue;
+}/*# sourceMappingURL=style.css.map */
