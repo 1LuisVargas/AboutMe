@@ -1,5 +1,9 @@
+@import "mixins";
+
 h1{
-    color: blanchedalmond;
+    color: rgb(197, 127, 23);
+    @include title();
+    @include box();
 }
 
 .navbar-collapse{

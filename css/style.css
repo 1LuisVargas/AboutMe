@@ -1,5 +1,9 @@
 h1 {
-  color: blanchedalmond;
+  color: rgb(197, 127, 23);
+  text-align: center;
+  padding: 10px;
+  border-width: 0px;
+  margin: 10px;
 }
 
 .navbar-collapse {
