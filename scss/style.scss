@@ -1,15 +1,10 @@
 @import "mixins";
-
-h1{
-    color: rgb(197, 127, 23);
-    @include title();
-    @include box();
-}
+@import "text";
 
 .navbar-collapse{
     justify-content: center;
 }
 
-.navbar-expand-lg, .footer{
-    background-color: skyblue;
-}
+// .navbar-expand-lg, .footer{
+//     background-color: skyblue;
+// }

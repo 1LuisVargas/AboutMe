@@ -1,0 +1,11 @@
+h1{
+    @include title();
+    @include box();
+}
+
+p{
+    @include box();
+    text-indent: 30px;
+    text-align: justify;
+    text-justify: inter-word;
+}

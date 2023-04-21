@@ -1,15 +1,19 @@
 h1 {
-  color: rgb(197, 127, 23);
   text-align: center;
   padding: 10px;
   border-width: 0px;
   margin: 10px;
 }
 
-.navbar-collapse {
-  justify-content: center;
+p {
+  padding: 10px;
+  border-width: 0px;
+  margin: 10px;
+  text-indent: 30px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
-.navbar-expand-lg, .footer {
-  background-color: skyblue;
+.navbar-collapse {
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
